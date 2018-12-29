@@ -1,9 +1,9 @@
 to install the game type :
-chmod +x project.py
+chmod +x lon.py
 
 
 
 
 
 
-python project.py
+python lon.py
